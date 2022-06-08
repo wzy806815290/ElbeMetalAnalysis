@@ -2,9 +2,10 @@
 The codes for analyzing the trace metal pollution in the Elbe River
 
 Bayesian network
+It is a Bootstrapped tabu-learning Bayesian network for analyzing the relationship between multi-influential factors and the metal concentrations in rivers.
 The program includes Bayesian network structure learning, arc confidence & strength analysis, model learning and parameter analysis, uncertainty analysis and outcome output
 The files for the Bayesian network
-- R code: BN_BOOT_ELBE2.R (Bootstrapped tabu-learning Bayesian network analysis; The codes including result output and uncertainty analysis)
+- R code: BN_BOOT_ELBE2.R 
 - Input data: BN_Elbe.xlsx
 
 Bayesian multivariate receptor model
